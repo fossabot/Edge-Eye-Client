@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javacv/opencv-3.4.3-1.4.3-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/opencv-3.4.3-1.4.3-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/opencv-3.4.3-1.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/opencv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/opencv-platform-3.4.3-1.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/opencv-platform.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/opencv.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/ffmpeg-4.0.2-1.4.3-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/ffmpeg-4.0.2-1.4.3-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/ffmpeg-4.0.2-1.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/ffmpeg-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/ffmpeg-platform-4.0.2-1.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/ffmpeg-platform.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/javacpp-1.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/javacpp.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/javacv-1.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/javacv-platform-1.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/javacv-platform.jar"/>
+	<classpathentry kind="lib" path="lib/javacv/javacv.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
